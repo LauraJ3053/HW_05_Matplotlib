@@ -1,0 +1,5 @@
+1) In Urban areas the fares are lower but the number of rides are higher than other areas.
+
+2) In Rural areas the fares are higher but the number of rides are lower than other areas.
+
+3) The total percentage of drivers per area has a direct correlation with the percentage of rides for the given area.
